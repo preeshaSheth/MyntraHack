@@ -21,13 +21,14 @@
 .video-stream-title {
     font-family: 'Alex Brush', cursive;
     color: black; /* Optional: change title color to stand out against the background */
+    font-size: 50px;
 }
 
 /* Styling for the video stream frame */
 .video-stream-frame {
     border: 2px solid #131212; /* Optional: add a border to the video frame */
     border-radius: 10px;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-bottom: 20px; /* Space between video frame and button */
 }
 
