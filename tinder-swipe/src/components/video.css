@@ -1,0 +1,44 @@
+/* src/components/VideoStream.css */
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
+
+/* Styles for video stream container */
+.video-stream-container {
+    background-image: url('../icons3/bg\ \(2\).png'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/* Styling for the video stream title */
+.video-stream-title {
+    font-family: 'Alex Brush', cursive;
+    color: black; /* Optional: change title color to stand out against the background */
+    font-size: 50px;
+}
+
+/* Styling for the video stream frame */
+.video-stream-frame {
+    border: 2px solid #131212; /* Optional: add a border to the video frame */
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px; /* Space between video frame and button */
+}
+
+/* Styling for the redirect button */
+.redirect-button {
+    background-color: #f3449c; /* Hot pink */
+    color: white;
+    padding: 30px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+}
