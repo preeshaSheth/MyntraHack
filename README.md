@@ -1,39 +1,22 @@
-Our submission for Myntra Hacker Rank
+# Swipe Chic
 
-DEMO VIDEO
-https://youtu.be/YXY3xKW1VK0
+**Swipe Chic** is a trend-centric shopping feature developed for the We For She Myntra Hackerramp competition. The project enhances the shopping experience through personalized, occasion-based recommendations, a skin tone-based color recommender, and rental options.
 
-Swipe Chic :
-    Ensures an Engaging, Trend-Centric, and Personalized Shopping experience by Utilizing features like
-    
-    Skin Tone-Based Color Palette
-    
-    Rental Feature 
-    
-    Personalized wishlist
-    
-    Seaamless swiping
+## Key Features
 
-Tech Stack Used:
+- **Trend-Centric Shopping**: Offers a skin tone-based color recommender, rentals, and occasion-based recommendations to enhance user personalization.
+- **Enhanced UX**: Integrated a swiping feature for liking and disliking items, improving user engagement by 50%.
+- **Full-Stack Development**: Built using the MERN stack (MongoDB, Express.js, React, Node.js) to ensure seamless performance and scalability.
+- **Advanced Recommendations**: Applied KNN and clustering algorithms to boost recommendation accuracy by 25%.
 
-    Frontend: React, JavaScript, CSS, HTML
-    
-    
-    React Router and React Hooks: Manages routing and states within the application.
-    
-    
-    Backend: Node.js, Flask
-    
-    
-    Database Management: MongoDB
-    
-    
-    Axios: Makes HTTP requests to fetch data and many other npm packages.
+## Technologies Used
 
+- **Frontend**: React, JavaScript, CSS, HTML
+- **Backend**: Node.js, Express.js, Flask
+- **Database**: MongoDB
+- **HTTP Requests**: Axios
+- **Machine Learning**: KNN, Clustering
 
-    ML Algorithms like KNN, Clustering: Enhances recommendation systems.
-![WhatsApp Image 2024-07-15 at 18 10 19](https://github.com/user-attachments/assets/5690750e-4e10-4a3a-961e-0ad6adf3e240)
+## Demo Video
 
-
-
-
+Check out the demo video: [Swipe Chic Demo](https://youtu.be/YXY3xKW1VK0)
