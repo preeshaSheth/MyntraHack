@@ -1,5 +1,8 @@
 Our submission for Myntra Hacker Rank
 
+DEMO VIDEO
+https://youtu.be/YXY3xKW1VK0
+
 Swipe Chic :
     Ensures an Engaging, Trend-Centric, and Personalized Shopping experience by Utilizing features like
     
